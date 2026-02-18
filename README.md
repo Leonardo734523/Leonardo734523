@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Leonardo734523/Leonardo734523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo, an aspiring backend developer.
 
-Here are some ideas to get you started:
+I specialize in building professional web backends using Python, Django, and MySQL.  
+I’m also familiar with HTML, CSS, and JavaScript for frontend work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m developing a Django-based storefront website to practice building full-featured web applications.
+
+### 💻 Tech Stack
+- **Backend:** Python, Django, MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+
+### 🔭 Projects
+- Storefront website (in progress)  
+- SQL data cleaning project
+- Weather website
